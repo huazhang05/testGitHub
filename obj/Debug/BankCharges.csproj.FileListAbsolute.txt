@@ -1,0 +1,8 @@
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\bin\Debug\BankCharges.exe.config
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\bin\Debug\BankCharges.exe
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\bin\Debug\BankCharges.pdb
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\obj\Debug\BankCharges.csproj.AssemblyReference.cache
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\obj\Debug\BankCharges.csproj.SuggestedBindingRedirects.cache
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\obj\Debug\BankCharges.csproj.CoreCompileInputs.cache
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\obj\Debug\BankCharges.exe
+D:\vanier\block4\Application Development\02-Assignment\Lab1\BankCharges\obj\Debug\BankCharges.pdb
